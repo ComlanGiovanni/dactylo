@@ -1,0 +1,201 @@
+0 1 2 3 4 5 6 7 8 9 0
+echo touch ls mkdir man ls mv chmod cd rmdir git log complie date htop rm .sh 42 grep cut cp pwd
+ls -lah
+write
+>> << ~/ // & - -R tar -cf * . , -- = '' "" % -U -m -t -p -A -E -B -s -i -r  -d -e
+( ) $ |
+index
+void
+putnbr
+return (str);
+char
+return (1);
+32
+<=
+length++;
+ft_putchar
+!=
+if else
+#include <stdio.h>
+!
+int 
+length
+len
+main void !=
+str
+string
+size
+&c,
+>=
+stdio.h
+<<
+<
+gcc -Wall -Wextra -Werror
+++;
+return
+int main(int argc, char *argv[])
+int main(int argc, char **argv)
+while (
+index
+index = 0;
+tab
+&&
+printf
+));
+int main ()
+||
+write(1, "\n", 1);
+return (0);
+str[]
+str
+(void *)0
+NULL
+10
+printf("%d\n",
+return
+-;
+ft_putchar('\n');
+()
+<= != 
+while
+'\0'
+&&
+idx = 0;
+swap
+return (1);
+++
+s1[idx]
+12
+if (index < 0)
+int	main(int argc, char *argv[])
+int	main(int argc, char **argv)
+**
+argc argv
+!= '\0'
+>= 1
+sizeof(char) + 1
+--
+	ft_putchar('\n');
+	return (0);
+	return (NULL);
+'\t'
+return ;
+int main()
+'\r'
+nb *= -1;
++=
+_
+>=
+48
+9
+0
+
+unsigned
+long
+idx++;
+write(1, &c, 1);
+return (NULL);
+index++;
+'A'
+tab[]
+return (0);
+n
+size
+(char *)malloc
+nb % 10
+(void)ac;
+-2147483648
+<= '9'
+dest
+'M'
+'a'
+'n'
+int ascii_tab[256];
+>= '0'
+length
+if (argc == 3)
+{0, 1, 2, 3, 4, 5};
+{0};
+ char myString[]
+sizeof(int)
+int main(void)
+tmp
+Hello World
+ft_putchar(digit + '0');
+(char *)malloc(sizeof(char)
+size++;
+idx++;
+index++;
+% 2
+'0'
+&c
+{
+#include <stdlib.h>
+tab[
+print("%s\n"
+%d
+unsigned int
+#include <unistd.h>
+.c
+unistd
+#include <stdio.h>
+printf
+stdio
+string
+#include <string.h>
+strcmp
+_
+idx
+(unsigned char)
++
+-
+=
+\n
+\t
+10
+32
+
+//
+ft_
++ '0');
+- '0');
+../../
+gcc -Wall -Wextra -Werror -o a.out
+gcc
+./a.out
+2147483648
++ '0'
+);
+#include <unistd.h>
+.h
+#inluce
+<
+<
+.h>
+);
+void
+int
+main 
+#!/bin/sh
+git status
+git -m ""
+cat -e
+"\n"
+cd -
+cat -n
+sort
+wc
+wc -l
+ft_
+bc
+.sh
++r +x
+?
+cat sed rev cut tr sort
+/etc/passwd
+tail
+// );
+
+
+
+
