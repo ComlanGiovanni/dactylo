@@ -1,0 +1,32 @@
+Character
+
+void int tmp return str while str string char if ptr pointer integer write
+sizeof include cc Wall main Werror Wexra Weverything stdlib exit argc argv *
+else len is  else if
+
+
+Capitalize
+
+NULL EXIT_SUCCESS EXIT_FAILURE
+
+character with special char
+
+str[] string[] !str size++ if () char * &c sizeof(char)
+write( #include unistd.h <unistd.h> *str stdlib.h <stdlib.h>
+return (0); **argv argv[1] argv[0] argv[0][1] argv[1][3] argv[0][2] index++;
+index++ return (EXIT_SUCCESS); return (0); length--; return (0x0); return (0);
+++;
+
+
+(char *string) (char *str)
+
+Special char
+
+* {} ; ^= , ; ), */ /* || (( )) != ++; ? ! || ); + - & .h> < > && --; ++ --
+== && >= <= ('\n'); '\n' ((()))
+
+
+
+Number
+
+'\0' -1 (0) = 0 1
