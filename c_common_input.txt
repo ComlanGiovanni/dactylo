@@ -1,9 +1,9 @@
 Character
 
 void int tmp return str while str string char if ptr pointer integer write
-sizeof include cc Wall main Werror Wexra Weverything stdlib exit argc argv *
-else len is  else if
-
+sizeof include cc Wall main Werror Wexra Weverything stdlib exit argc argv
+else len is  else if char	tmp; int	size shift string strcmp printf null
+hello value char c isupper islower
 
 Capitalize
 
@@ -12,21 +12,23 @@ NULL EXIT_SUCCESS EXIT_FAILURE
 character with special char
 
 str[] string[] !str size++ if () char * &c sizeof(char)
-write( #include unistd.h <unistd.h> *str stdlib.h <stdlib.h>
+write( #include unistd.h <unistd.h> *str stdlib.h <stdlib.h>  <string.h>
 return (0); **argv argv[1] argv[0] argv[0][1] argv[1][3] argv[0][2] index++;
-index++ return (EXIT_SUCCESS); return (0); length--; return (0x0); return (0);
-++;
+index++ return (EXIT_SUCCESS); return (0); length--; return (0x0); return (0x0);
+++; 'a' 'A' 'z' 'Z' size++; while (*str) ft_ if (argc == 2) *s1++ *s2++ *--s1 *--s2
+#include <string.h> #include <stdio.h> "%d\n" "%s\n" "%c\n" "%i\n" printf("") ""
+(char *string) (char *str) str[index] ' ' '_' index = 0; idx = 0;
+int	main(int argc, char **argv)
 
-
-(char *string) (char *str)
 
 Special char
 
-* {} ; ^= , ; ), */ /* || (( )) != ++; ? ! || ); + - & .h> < > && --; ++ --
-== && >= <= ('\n'); '\n' ((()))
+* {} ; ^= , ; ), */ /* || (( )) != ++; ? ! ||
+); + - & .h> < > && --; ++ -- '\n' >> >= <= +=
+== && >= <= ('\n'); '\n' ((())) --; -=
 
 
 
 Number
 
-'\0' -1 (0) = 0 1
+'\0' -1 (0) = 0 1 0x0 [1] [0] [2]
